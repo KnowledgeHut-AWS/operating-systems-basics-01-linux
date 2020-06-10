@@ -1,5 +1,6 @@
-# Control
-## Learn how to control bash
+# How to use a bash terminal
+
+## Learn how to control bash terminal
 
 In the beginning was the command line...
 
@@ -55,6 +56,14 @@ cat <esc-.>
 ```
 
 I haven't provided a copy or execute for that command beause Katacoda can't easily simulate the `esc-.` key combination, and it wouldn't help you learn it.
+
+### Clear
+
+At certain point we may want to clean your screen. for that we can use 'clear' command. you can 
+
+```
+clear
+```{{execute}}
 
 ---
 
